@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Sebastian's Vault
 ---
 
 This is a blank Quartz installation.
